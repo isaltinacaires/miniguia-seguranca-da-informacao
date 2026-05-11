@@ -15,3 +15,21 @@ O objetivo foi utilizar Inteligência Artificial como ferramenta de aprendizagem
 - Entender os principais tipos de criptografia;
 - Aprender sobre ameaças cibernéticas e formas de proteção;
 - Utilizar IA para resumir conteúdos e auxiliar nos estudos.
+
+- ---
+
+# 📚 Fontes Utilizadas
+
+1. Cartilha de Segurança para Internet - CERT.br  
+https://cartilha.cert.br/
+
+2. Cisco Networking Academy  
+https://www.netacad.com/
+
+3. Documentação Oficial sobre Criptografia - IBM  
+https://www.ibm.com/topics/cryptography
+
+4. OWASP Foundation  
+https://owasp.org/
+
+5. Livro: Redes de Computadores - Andrew S. Tanenbaum
