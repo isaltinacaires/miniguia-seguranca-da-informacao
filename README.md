@@ -66,3 +66,74 @@ Foram apresentados ataques como phishing, ransomware, malware e DDoS.
 - Algumas respostas ficaram muito genéricas;
 - Foi necessário refinar prompts para obter respostas mais objetivas;
 - Em alguns casos a IA misturou conceitos de criptografia e segurança de redes.
+- ---
+
+# 📖 Miniguia de Estudos
+
+## 🔐 Segurança da Informação
+
+A Segurança da Informação é o conjunto de práticas utilizadas para proteger dados e sistemas contra acessos não autorizados.
+
+### Princípios Básicos
+- Confidencialidade
+- Integridade
+- Disponibilidade
+
+---
+
+## 🔑 Criptografia
+
+A criptografia protege informações através da codificação de dados.
+
+### Tipos de Criptografia
+
+#### Simétrica
+Utiliza a mesma chave para criptografar e descriptografar.
+
+Exemplos:
+- AES
+- DES
+
+#### Assimétrica
+Utiliza chave pública e privada.
+
+Exemplo:
+- RSA
+
+---
+
+## 🛡️ Principais Ameaças
+
+- Phishing
+- Malware
+- Ransomware
+- Engenharia Social
+- Ataques DDoS
+
+---
+
+# 📘 Glossário
+
+| Termo | Definição |
+|------|------------|
+| Firewall | Sistema de proteção de rede |
+| Malware | Software malicioso |
+| Phishing | Golpe para roubo de informações |
+| VPN | Rede privada virtual |
+| Criptografia | Técnica de proteção de dados |
+
+---
+
+# ♻️ Prompts Reutilizáveis
+
+- "Explique este conceito como se eu fosse iniciante."
+- "Crie um resumo em tópicos."
+- "Quais são os pontos mais importantes deste tema?"
+- "Monte perguntas para revisão."
+- "Explique a diferença entre X e Y."
+
+---
+
+# ✅ Conclusão
+
+Este projeto permitiu utilizar Inteligência Artificial como apoio aos estudos, facilitando a organização do conhecimento e a criação de materiais de revisão sobre Segurança da Informação.
