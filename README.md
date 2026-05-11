@@ -33,3 +33,36 @@ https://www.ibm.com/topics/cryptography
 https://owasp.org/
 
 5. Livro: Redes de Computadores - Andrew S. Tanenbaum
+6. ---
+
+# 🤖 Engenharia de Prompts
+
+## Prompt 1
+"Explique os pilares da Segurança da Informação de forma simples."
+
+### Resultado
+A IA apresentou os conceitos de confidencialidade, integridade e disponibilidade.
+
+---
+
+## Prompt 2
+"Crie um resumo sobre criptografia simétrica e assimétrica."
+
+### Resultado
+A IA explicou as diferenças entre os dois modelos de criptografia e apresentou exemplos práticos.
+
+---
+
+## Prompt 3
+"Quais são os ataques cibernéticos mais comuns atualmente?"
+
+### Resultado
+Foram apresentados ataques como phishing, ransomware, malware e DDoS.
+
+---
+
+# ⚠️ Dificuldades Encontradas
+
+- Algumas respostas ficaram muito genéricas;
+- Foi necessário refinar prompts para obter respostas mais objetivas;
+- Em alguns casos a IA misturou conceitos de criptografia e segurança de redes.
